@@ -1,18 +1,18 @@
 # Bootstrap::Growl::Rails
 
-## Current Version
-
-2.0.0
-
 ## Information
 
 This gem is just an asset wrapper for bootstrap-growl JavaScript plugin by mouse0270 (https://github.com/mouse0270/bootstrap-growl). Please visit http://bootstrap-growl.remabledesigns.com/ for more details and social media praise.
 
-### Documentation
+### Current Version
+
+2.0.0
+
+## Documentation
 
 Documentation can be found at http://bootstrap-growl.remabledesigns.com/#growl-documentation
 
-### Demo
+## Demo
 
 Demo can be found at http://bootstrap-growl.remabledesigns.com/
 
@@ -32,7 +32,15 @@ Or install it yourself as:
 
 ## Usage
 
-Please see the documentation at http://bootstrap-growl.remabledesigns.com/#growl-documentation for usage instructions
+Add the following directive to your Javascript manifest file (application.js):
+
+    //= require bootstrap-growl
+
+*Please see the documentation at http://bootstrap-growl.remabledesigns.com/#growl-documentation for plugin usage instructions.*
+
+## Versioning
+
+bootstrap-growl-rails 2.0.0 == bootstrap-growl.js 2.0.0
 
 ## Contributing
 

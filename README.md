@@ -6,7 +6,7 @@ This gem is just an asset wrapper for bootstrap-growl JavaScript plugin by mouse
 
 ### Current Version
 
-2.0.0
+2.0.1
 
 ## Documentation
 

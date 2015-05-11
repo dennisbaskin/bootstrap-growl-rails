@@ -2,11 +2,11 @@
 
 ## Information
 
-This gem is just an asset wrapper for bootstrap-growl JavaScript plugin by mouse0270 (https://github.com/mouse0270/bootstrap-growl). Please visit http://bootstrap-growl.remabledesigns.com/ for more details and social media praise.
+This gem is just an asset wrapper for bootstrap-notifiy JavaScript plugin by mouse0270 (https://github.com/mouse0270/bootstrap-growl). Please visit http://bootstrap-growl.remabledesigns.com/ for more details and social media praise.
 
 ### Current Version
 
-2.0.0
+3.0.0
 
 ## Documentation
 
@@ -34,7 +34,11 @@ Or install it yourself as:
 
 Add the following directive to your Javascript manifest file (application.js):
 
-    //= require bootstrap-growl
+    //= require bootstrap-notify
+
+Add the following directive to your Stylesheet manifest file (application.css):
+
+    *= require animate
 
 *Please see the documentation at http://bootstrap-growl.remabledesigns.com/#growl-documentation for plugin usage instructions.*
 

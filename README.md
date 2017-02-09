@@ -6,7 +6,7 @@ This gem is just an asset wrapper for bootstrap-notifiy JavaScript plugin by mou
 
 ### Current Version
 
-3.1.3
+3.1.5
 
 ## Documentation
 
